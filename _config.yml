@@ -20,6 +20,8 @@ markdown:           kramdown
 # Highlighter
 highlighter:        rouge
 
+future: true
+
 # Navigation
 nav:
   - name:           "home"
@@ -34,8 +36,21 @@ nav:
     href:           "/people"
   # - name:           "blog"
   #   href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
+  # - name:           "resources"
+  #   href:           "/resources"
+
+responsive_image:
+  template: _includes/responsive_img.html
+  # Quality to use when resizing images.
+  default_quality: 80
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+      quality: 90
+  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size.
+  strip: true
+
 
 # Sass
 sass:

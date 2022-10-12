@@ -3,6 +3,11 @@ title: People
 permalink: /people/
 ---
 
+<style type="text/css">
+  a:link {color: black;}
+  a:hover {color: black;} 
+</style>
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "faculty|student|alumni" | split: "|" %}
 
@@ -31,12 +36,23 @@ permalink: /people/
     {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
-          {% if profile.avatar %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-          {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+          <a href="{{ profile.homepage }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+          <a class="name" href="{{ profile.homepage }}">{{ profile.name }}</a><br>
+          {% if profile.homepage %}
+            <a class="fa fa-home" href="{{ profile.homepage }}"></a>
           {% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          {% if profile.scholar %}
+            <a class="fa fa-google" href="{{ 'https://scholar.google.com/citations?user=' | append: profile.scholar }}"></a>
+          {% endif %}
+          {% if profile.github %}
+            <a class="fa fa-github" href="{{ 'https://github.com/' | append: profile.github }}"></a>
+          {% endif %}
+          {% if profile.twitter %}
+            <a class="fa fa-twitter" href="{{ 'https://twitter.com/' | append: profile.twitter }}"></a>
+          {% endif %}
+          {% if profile.linkedin %}
+            <a class="fa fa-linkedin" href="{{ 'https://linkedin.com/in/' | append: profile.linkedin }}"></a>
+          {% endif %}
         </p>
       </div>    
     {% endif %}

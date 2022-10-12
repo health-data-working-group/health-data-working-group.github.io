@@ -17,13 +17,13 @@ permalink: /workshops/
                   </div>
                   <div class="col-sm-8">
                       <h3 class="post-title">
-                          {{ post.title }}
+                        {{ post.title }}
                       </h3>
                       <p class="list-post-title">
-                        {{ post.date | date: "%B %-d, %Y" }}
+                        {{ post.date | date: "%A, %B %-d, %Y" }}
                       </p>
                       <p class="list-detail" >
-                        {{ post.content | strip_html | truncatewords:30 }}
+                        {{ post.description }}
                       </p>
                   </div>
               </div>
