@@ -6,7 +6,9 @@ layout: default
     <strong>{{ page.title }}</strong><br/>
     <small>{{ page.date | date: '%A, %B %-d, %Y'}}</small><br/>
     <small>Location: {{ page.location }}</small><br/> 
-    <small>Registration Link: <a href="{{ page.registration }}">{{ page.registration }}</a></small>
+    {% if page.registration %}
+      <small>Registration Link: <a href="{{ page.registration }}">{{ page.registration }}</a></small>
+    {% endif %}
   </h3>
   <hr>
   {{ content }}
