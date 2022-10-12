@@ -1,6 +1,6 @@
 ---
 title: Workshops
-permalink: /workshops/
+permalink: /event/
 ---
 
 ### **Workshops**

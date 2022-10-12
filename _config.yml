@@ -12,7 +12,7 @@ description:        "this is a page for Health Data Working group. We are a grou
 url:                http://health-data-working-group.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
-permalink:          /workshops/:title.html
+permalink:          /event/:title.html
 
 # Markdown
 markdown:           kramdown
@@ -31,7 +31,7 @@ nav:
   # - name:           "publications"
   #   href:           "/publication"
   - name:           "workshops"
-    href:           "/workshops/"
+    href:           "/event"
   - name:           "people"
     href:           "/people"
   # - name:           "blog"
@@ -84,4 +84,4 @@ collections:
     permalink: /people/:title/index.html
   workshops:
     output: true
-    permalink: /workshops/:title.html
+    permalink: /event/:title
