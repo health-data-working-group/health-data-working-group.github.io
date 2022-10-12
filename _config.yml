@@ -3,16 +3,16 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Health Data Working Group"
+title:              "Health Data Working Group at the Dalla Lana School of Public Health, University of Toronto"
+description:        "this is a page for Health Data Working group. We are a group comprised of students and faculty members from the School of Public Health with an interest in providing programming-related tools for public health research."
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://health-data-working-group.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          /workshops/:title.html
 
 # Markdown
 markdown:           kramdown
@@ -24,14 +24,16 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
+  # - name:           "about"
+  #   href:           "/about"
+  # - name:           "publications"
+  #   href:           "/publication"
+  - name:           "workshops"
+    href:           "/workshops/"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
+  # - name:           "blog"
+  #   href:           "/blog"
   - name:           "resources"
     href:           "/resources"
 
@@ -65,3 +67,6 @@ collections:
   people:
     output: true
     permalink: /people/:title/index.html
+  workshops:
+    output: true
+    permalink: /workshops/:title.html
