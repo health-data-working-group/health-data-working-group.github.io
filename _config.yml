@@ -85,3 +85,7 @@ collections:
   workshops:
     output: true
     permalink: /event/:title
+
+
+plugins:
+  - jekyll-redirect-from

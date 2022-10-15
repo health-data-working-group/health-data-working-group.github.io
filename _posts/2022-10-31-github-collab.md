@@ -1,10 +1,12 @@
 ---
-title: GitHub Part 2
+title: GitHub Collab
 categories: workshop # very important label!
 header-img: images/post/collab.png
 description: This workshop introduces Git concepts for purposes of collaborating with your colleagues.
 location: Room 734 @ Health Sciences Building
 registration: https://survey.typeform.com/to/FVMdNpOc
+redirect_from:
+    - /event/github-2-part-2.html
 ---
 
 <div class="row">
