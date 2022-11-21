@@ -4,7 +4,8 @@ layout: default
 <div class="container content post">
   <h3>
     <strong>{{ page.title }}</strong><br/>
-    <small>{{ page.date | date: '%A, %B %-d, %Y'}}</small><br/>
+    {% assign post_date = page.date | date: '%A, %B %-d, %Y' %}
+    <small>{{ post_date | append: ", 1pm - 2pm"}}</small><br/>
     <small>Location: {{ page.location }}</small><br/> 
     {% if page.registration %}
       <small>Registration Link: <a href="{{ page.registration }}">{{ page.registration }}</a></small>
