@@ -4,6 +4,8 @@ categories: workshop # very important label!
 header-img: images/post/machine-learning.jpg
 description: Please join our upcoming workshop on introducing machine learning and its best practices by Dr. Davide Chicco a scientific research associate at the Institute of Health Policy, Management and Evaluation at the University of Toronto.
 location: Zoom
+slides:
+url_video: https://www.youtube.com/watch?v=ItPobgsGPpE
 ---
 
 <div class="row">
