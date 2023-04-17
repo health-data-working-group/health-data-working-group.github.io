@@ -5,7 +5,8 @@ layout: default
   <h3>
     <strong>{{ page.title }}</strong><br/>
     {% assign post_date = page.date | date: '%A, %B %-d, %Y' %}
-    <small>{{ post_date | append: ", 1pm - 2pm"}}</small><br/>
+    {% assign post_time = page.time | default: "1pm - 2p" %}
+    <small>{{ post_date | append: ", " | append: post_time}}</small><br/>
     <small>Location: {{ page.location }}</small><br/> 
     {% if page.registration %}
       <small>Registration Link: <a href="{{ page.registration }}">{{ page.registration }}</a></small>

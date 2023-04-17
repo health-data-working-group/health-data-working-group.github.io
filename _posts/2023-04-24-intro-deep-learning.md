@@ -4,6 +4,7 @@ categories: workshop # very important label!
 header-img: images/post/cats-vs-dogs.png
 description: Cats and Dogs Classification from Scratch
 location: Room 740 @ Health Sciences Building
+time: noon - 1pm
 registration: https://survey.typeform.com/to/aqGlyOm7
 ---
 
