@@ -19,3 +19,5 @@ registration: https://survey.typeform.com/to/aqGlyOm7
 ### Description
 
 In this interactive workshop led by Jasper Zhang, a first-year Biostatistics PhD student, we will dive into the world of Deep Learning, focusing on Convolutional Neural Networks (CNNs) for image data analysis. Together, we will explore a hands-on coding example using Python and the Keras Deep Learning Library, demonstrating a cat and dog classification task. No prior experience is necessary, as we will provide a line-by-line explanation of the code. During the workshop, attendees will discover the potential applications of Deep Learning in medical research and public health, learn useful tips for working with medical image data, and receive study guidelines for building and enhancing their Deep Learning skills.
+
+Link to Colab notebook: <a href="https://colab.research.google.com/drive/1W11NjDSUt9nFyWx4wj6uHlESlXXMOWQr?usp=sharing">https://colab.research.google.com/drive/1W11NjDSUt9nFyWx4wj6uHlESlXXMOWQr?usp=sharing</a>
