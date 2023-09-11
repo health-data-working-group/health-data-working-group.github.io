@@ -3,8 +3,8 @@ title: Your First Open-Source Contribution
 categories: workshop # very important label!
 header-img: images/post/open-source-contribution.png
 description: Your First Open-Source Contribution
-location: Room 734 @ Health Sciences building
-registration: https://survey.typeform.com/to/sRGGpxxA
+location: Room 740 @ Health Sciences building
+registration: https://ktq3lcblh4r.typeform.com/to/DzCJFJwG
 ---
 
 <div class="row">
