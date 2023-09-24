@@ -21,6 +21,8 @@ Are you a student with some experience in programming? Do you want to explore th
 
 Join us for an interactive session with Larry, a GitHub Campus Expert and biostatistics PhD student, who will guide you step-by-step to make your very first open-source contribution using GitHub integrated within RStudio or via the command line. By the end of this workshop, you'll not only have a deeper understanding of the open-source community but also the confidence to contribute to it.
 
+&rarr; [Here are this workshop's slides](https://docs.google.com/presentation/d/1gxYI3jp90sXuCbJbI08SKfZGzd5AGczYJunBsvAUad8/edit?usp=sharing)
+
 ### What You'll Learn:
 
 - Basics of Git & GitHub: Understand the core concepts and workflows.
@@ -28,3 +30,5 @@ Join us for an interactive session with Larry, a GitHub Campus Expert and biosta
 - Finding the right open-source projects: Navigate projects that align with your interests and skills.
 - Making your first Pull Request (PR): Contribute code, documentation, or even data to a project.
 - Best practices: Ensuring your contributions are meaningful and accepted.
+
+&rarr; [Here are the slides from last September's workshop](https://docs.google.com/presentation/d/1qag0KnS8O0o4qS2B4GSApRjpr-z03B12J7L3QDiGdnk/edit?usp=sharing)
