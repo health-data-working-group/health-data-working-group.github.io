@@ -8,7 +8,7 @@ permalink: /people/
   a:hover {color: black;} 
 </style>
 
-{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign people_sorted = site.people | sort: 'last_name' %}
 {% assign role_array = "faculty|student|alumni" | split: "|" %}
 
 {% for role in role_array %}

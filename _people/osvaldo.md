@@ -6,4 +6,5 @@ homepage: https://www.dlsph.utoronto.ca/faculty-profile/osveg/
 github: egosv
 linkedin: osvaldo-espingarcia
 scholar: NznE6fAAAAAJ
+last_name: Espin-Garcia
 ---
