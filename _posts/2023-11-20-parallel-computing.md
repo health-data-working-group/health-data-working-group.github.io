@@ -1,7 +1,7 @@
 ---
 title: A Gentle Introduction to Parallel Computing in R
 categories: workshop # very important label!
-header-img: images/post/parallel_compute.jpeg
+header-img: images/post/parallel_compute.png
 description:  Parallel Computing in R
 location: Online through Zoom
 time: 1:30pm - 2:30pm
@@ -11,7 +11,7 @@ registration: https://ktq3lcblh4r.typeform.com/to/Vb08cpVU
 <div class="row">
 <div class="col-sm-3"></div>
 <div class="col-sm-6">
-    <img src="/images/post/parallel_compute.jpeg">
+    <img src="/images/post/parallel_compute.png">
 </div>
 <div class="col-sm-3"></div>
 </div>
