@@ -4,7 +4,7 @@ categories: workshop # very important label!
 header-img: images/post/parallel_compute.jpeg
 description:  Parallel Computing in R
 location: Online through Zoom
-time: 1:30pm - 2pm
+time: 1:30pm - 2:30pm
 registration: https://ktq3lcblh4r.typeform.com/to/Vb08cpVU
 ---
 
