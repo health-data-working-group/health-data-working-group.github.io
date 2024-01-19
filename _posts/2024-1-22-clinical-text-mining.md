@@ -1,5 +1,5 @@
 ---
-title: Clinical Text Mining: A Showcase of Computational Tools and Statistical Models in R/Python
+title: Clinical Text Mining&#58; A Showcase of Computational Tools and Statistical Models in R/Python
 categories: workshop # very important label!
 header-img: images/post/clinical-text-mining.png
 description:  Clinical Text Mining
