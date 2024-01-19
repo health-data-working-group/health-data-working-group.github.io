@@ -1,5 +1,5 @@
 ---
-title: Clinical Text Mining: A Showcase of Computational Tools and Statistical Models in R, Python
+title: Clinical Text Mining in R, Python
 categories: workshop # very important label!
 header-img: images/post/clinical-text-mining.png
 description:  Clinical Text Mining in R, Python
@@ -17,6 +17,8 @@ registration:  https://ktq3lcblh4r.typeform.com/to/MRmfktw2
 </div>
 
 ### Description
+
+Title: Clinical Text Mining: A Showcase of Computational Tools and Statistical Models in R, Python
 
 Instructor: [Christopher Meaney](https://dfcm.utoronto.ca/faculty-research-interests/machine-learning)
 
