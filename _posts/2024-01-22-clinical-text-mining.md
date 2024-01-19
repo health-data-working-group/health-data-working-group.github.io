@@ -1,8 +1,8 @@
 ---
-title: Clinical Text Mining: A Showcase of Computational Tools and Statistical Models in R/Python
+title: Clinical Text Mining: A Showcase of Computational Tools and Statistical Models in R, Python
 categories: workshop # very important label!
 header-img: images/post/clinical-text-mining.png
-description:  Clinical Text Mining
+description:  Clinical Text Mining in R, Python
 location: Health Science Building HS 790
 time: 1:00 pm - 2:00 pm
 registration:  https://ktq3lcblh4r.typeform.com/to/MRmfktw2
