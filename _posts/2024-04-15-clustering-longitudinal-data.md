@@ -1,7 +1,7 @@
 ---
 title: Clustering of longitudinal data to identify patient phenotypes
 categories: workshop # very important label!
-header-img: images/post/clinical-text-mining.png
+header-img: images/post/clustering-longitudinal-data.png
 description:  Clustering of longitudinal data to identify patient phenotypes with an introduction to statistical learning approaches and software packages
 location: Health Science Building HS 740
 time: 2:00 pm - 3:00 pm
