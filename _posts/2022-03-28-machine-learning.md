@@ -18,4 +18,6 @@ url_video: https://www.youtube.com/watch?v=ItPobgsGPpE
 
 ### Description
 
+Instructor: [Davide Chicco](https://sites.google.com/view/davidechicco)
+
 With the higher availability of massive datasets online, machine learning has been re-discovered as a powerful tool to use computational methods to identify data trends that would be unnoticeable by humans otherwise. In this short workshop, we will explore what researchers actually mean when they talk about machine learning, and learn the best practices to be performed when applying machine learning to biomedical data. We will see what common mistakes can happen during a machine learning analysis and how to avoid them, and how to detect over-optimistic results.

@@ -16,4 +16,6 @@ location: Zoom
 
 ### Description
 
+Instructor: [Nnenna Asidianya](https://www.linkedin.com/in/nnenna-asidianya-13a66b111/)
+
 Please join The Health Data Working Group for a virtual workshop with <a href="https://www.linkedin.com/in/nnenna-asidianya-13a66b111/">Nnenna Asidianya</a>, 3rd year PhD student in Department of Statistical Sciences. This event is open to students, faculty, and researchers.

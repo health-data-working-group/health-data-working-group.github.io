@@ -16,4 +16,6 @@ location: Zoom
 
 ### Description
 
+Instructor: [Prof. Osvaldo Espin-Garcia](https://www.schulich.uwo.ca/epibio/people/faculty/core_appointees/dr_osvaldo_espin_garcia.html)
+
 In this talk, Dr. Espin-Garcia will introduce high performance computing (HPC) to the uninitiated. He will discuss about their scope, utility and capabilities. Topics will include job scheduling and monitoring, software and libraries usage, and data managing. He will illustrate using Niagara, one of the Advanced Research Computing facilities provided by the Compute Canada Federation and administered by SciNet at UofT. No previous experience with HPC is necessary.

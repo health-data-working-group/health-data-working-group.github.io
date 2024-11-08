@@ -16,4 +16,6 @@ location: Zoom
 
 ### Description
 
+Instructor: [Prof. Aya Mitani](https://www.ayamitani.com/)
+
 Join in on our November workshop with Dr. Aya Mitani, Assistant Professor in the Division of Biostatistics at the Dalla Lana School of Public Health. While her research interests include methods for correlated data, informative cluster size, missing data and methods for assessing agreement, she is also passionate about promoting reproducibility in research via developing ready-to-use software packages. Her talk will revolve around ongoing challenges in research (non-)reproducibility, some solutions to address these issues and an overarching guideline to publishing your own R package in CRAN.

@@ -16,6 +16,8 @@ location: Zoom
 
 ### Description
 
+Instructor: [Larry Dong](https://larrydong.com/)
+
 This tutorial introduces Git, a widely used software tool to track changes in your code, and GitHub, a Git-based version control system for projects.<br>
 
 2022 edit: we are having multiple and more recent workshop in the fall 2022 semester. Go check them out!
