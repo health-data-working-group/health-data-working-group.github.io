@@ -67,5 +67,5 @@ permalink: /people/
 | Yushu Zou | Research Assistant @ Public Health Ontario |
 | Juan Pablo Díaz-Martinez | Research Associate @ Toronto Western Lupus Clinic |
 | Rebecca Christensen | Postdoctoral fellow @ University of Toronto |
-| Rose Garrett | PhD Student in Biostatistics @ DLSPH, University of Toronto |
+| Rose Garrett | Senior Statistician @ AstraZeneca |
 | Rose Schmidt | PhD Student in Social and Behavioural Health @ DLSPH, University of Toronto |
