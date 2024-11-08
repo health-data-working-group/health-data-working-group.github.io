@@ -63,6 +63,8 @@ permalink: /people/
 
 | Who are they | Current position |
 | :------------- |:------------- |
+| Yutong Lu | CANSTAT Fellow @ Unity Health Toronto |
+| Yushu Zou | Research Assistant @ Public Health Ontario |
 | Juan Pablo Díaz-Martinez | Research Associate @ Toronto Western Lupus Clinic |
 | Rebecca Christensen | Postdoctoral fellow @ University of Toronto |
 | Rose Garrett | PhD Student in Biostatistics @ DLSPH, University of Toronto |
