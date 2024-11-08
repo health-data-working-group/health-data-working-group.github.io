@@ -16,4 +16,6 @@ location: Room 734 @ Health Sciences building
 
 ### Description
 
+Instructor: [Larry Dong](https://larrydong.com/)
+
 In our first-ever in-person workshop, we will provide the fundamental concepts and tools to practice version control for your code. In the first half, we will revisit the ABCs of Git for personal use: `git add`, `git commit` and `git push`. In the second half of the workshop, we will show you the basics on how to use GitHub to collaborate with your peers: creating issues, branches and pull requests. The tutorial will conclude with an interactive exercise in which you will contribute your personal flavor of `hello world` to another attendee's repository.

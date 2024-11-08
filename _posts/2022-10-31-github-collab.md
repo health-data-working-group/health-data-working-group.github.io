@@ -19,4 +19,6 @@ redirect_from:
 
 ### Description
 
+Instructor: [Larry Dong](https://larrydong.com/)
+
 In this workshop, we will focus on some tools that would allow you to collaborate with peers on the same codebase: branching, merging/rebasing and creating pull requests. Concepts from the September workshop (e.g. the `git add`, `git commit`, `git push` trio) can also be revisited during this session.

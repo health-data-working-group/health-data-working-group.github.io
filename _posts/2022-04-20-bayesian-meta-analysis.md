@@ -8,4 +8,6 @@ location: Zoom
 
 ### Description
 
+Instructor: [Juan Pablo Diaz Martinez](https://tcairem.utoronto.ca/faculty/juan-pablo-diaz-martinez)
+
 Juan Pablo Diaz Martinez works as a biostatistician at UHN and PhD Candidate at the University of Toronto. In this workshop, he will introduce some statistical methods for meta-analysis and how to work with them in a Bayesian framework. Some hands-on coding with Stan in R will be provided as well.

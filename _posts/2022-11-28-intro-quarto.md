@@ -17,4 +17,6 @@ registration: https://survey.typeform.com/to/CcTtnKHD
 
 ### Description
 
+Instructor: [Prof. Kuan Liu](https://www.kuan-liu.com/)
+
 In this workshop, you will learn how to build and customize a simple personal website using RStudio. We will cover two packages, the blogdown and the Quarto package to build and deploy the personal website and learn how to use GitHub and Netlify for publishing the website. Please bring your laptop that has R and RStudio installed as well as the following R packages: “remotes”, "rmarkdown", "usethis", "distill", "blogdown", “Quarto”. Additionally, before attending this workshop, please sign up for a free GitHub account and a free Netlify account.

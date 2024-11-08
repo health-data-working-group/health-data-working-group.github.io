@@ -17,4 +17,6 @@ registration: https://survey.typeform.com/to/GUsnvRyC
 
 ### Description
 
+Instructor: [Zahra Shakeri](https://ihpme.utoronto.ca/faculty-profile/abad-shakeri-hossain-zahra/)
+
 In this workshop, Dr. Zahra Shakeri Hossein Abad will provide a hands-on session for attendees to learn the skills and techniques for creating effective and engaging visual representations of research data. Participants will receive practical guidance and tips on selecting the appropriate chart types, utilizing visual variables, organizing data, and communicating insights visually.

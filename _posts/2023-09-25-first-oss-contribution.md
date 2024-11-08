@@ -17,6 +17,8 @@ registration: https://ktq3lcblh4r.typeform.com/to/DzCJFJwG
 
 ### Description
 
+Instructor: [Larry Dong](https://larrydong.com/)
+
 Are you a student with some experience in programming? Do you want to explore the world of open-source contributions and understand the magic behind collaborative coding on platforms like GitHub? If so, this workshop is tailored just for you!
 
 Join us for an interactive session with Larry, a GitHub Campus Expert and biostatistics PhD student, who will guide you step-by-step to make your very first open-source contribution using GitHub integrated within RStudio or via the command line. By the end of this workshop, you'll not only have a deeper understanding of the open-source community but also the confidence to contribute to it.
