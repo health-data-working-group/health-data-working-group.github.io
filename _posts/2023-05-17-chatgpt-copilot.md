@@ -18,4 +18,6 @@ registration: https://utoronto.zoom.us/meeting/register/tZcsdu6trzspG9yjWwynKHa6
 
 ### Description
 
+Instructor: [Melissa Van Bussel](https://www.melissavanbussel.com/)
+
 In this workshop, we'll explore the world of generative AI with a focus on two innovative tools: ChatGPT and GitHub CoPilot. We'll discuss the mechanics of these tools, dive into their respective strengths and weaknesses, and explore the ethical considerations that arise from their use. We'll then demo how to use ChatGPT and GitHub CoPilot as an R programmer, covering several different approaches and highlighting best practices.
