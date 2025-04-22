@@ -3,7 +3,8 @@ title: Sample Size Calculations for Bayesian Clinical Studies
 categories: workshop # very important label!
 header-img: images/post/sample-size-calculations.png
 description: A hands-on workshop on efficient simulation‑based strategies for selecting sample sizes in Bayesian clinical trials.
-location: Room 208 @ Health Sciences building
+location: Room 740 @ Health Sciences building
+time: 10 - 11am
 registration: https://docs.google.com/forms/d/e/1FAIpQLScOZDvITeszoAmkhmAtpDtvoJgt9rMoQTTdBnrndlOyVRXXrg/viewform
 ---
 
